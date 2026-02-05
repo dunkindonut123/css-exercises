@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+.pink-bg-normal{
+    background-color: rgb(255, 192, 203);
+}
+
+.bigger-font{
+    font-size: 180%;
+}
+
+#blue-big-font{
+    color: blue;
+    font-size: 200%;
+}
+
+#green-bg-bold{
+    background-color: green;
+    font-weight: bold;
+    font-size: 160%;
+}
